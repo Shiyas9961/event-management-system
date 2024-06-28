@@ -32,6 +32,8 @@ A simple event management system built with Django Rest Framework (backend) and 
 - Styling:
   - Use Tailwind CSS framework.
 
+## Frontend Setup Instructions
+
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/Shiyas9961/event-management-system.git
